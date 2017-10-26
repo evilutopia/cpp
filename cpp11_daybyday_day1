@@ -1,0 +1,18 @@
+move-semantic-perfect-forward
+
+概念：
+
+move-semantic
+
+lvalue & rvalue
+
+lvalue reference & rvalue reference 
+
+perfect forwarding
+
+universal reference
+f
+
+参考资料
+
+[move-semantic-perfect-forward](https://codinfox.github.io/dev/2014/06/03/move-semantic-perfect-forward/)
