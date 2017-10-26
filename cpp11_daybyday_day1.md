@@ -14,4 +14,5 @@ move-semantic-perfect-forward
 --------------------
 
 > [move-semantic-perfect-forward](https://codinfox.github.io/dev/2014/06/03/move-semantic-perfect-forward/)
+
 > [channel9](https://channel9.msdn.com/Tags/cppbeyond+2012)
