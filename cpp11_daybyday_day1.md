@@ -1,7 +1,7 @@
 move-semantic-perfect-forward
 ====================
 
-概念：
+概念
 --------------------
 
 * move-semantic
@@ -9,6 +9,11 @@ move-semantic-perfect-forward
 * lvalue reference & rvalue reference 
 * perfect forwarding
 * universal reference
+
+作用及用法
+--------------------
+
+
 
 参考资料
 --------------------
