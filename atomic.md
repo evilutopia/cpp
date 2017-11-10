@@ -21,7 +21,7 @@ int b = 0;
 void thread1()
 {
   b = 1;
-  a.store(1, boost::memory_order_release);
+  a.store(1, boost::memory_order_rrelease);
 }
 
 void thread2()
