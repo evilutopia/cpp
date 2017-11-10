@@ -20,8 +20,8 @@ int b = 0;
 
 void thread1()
 {
-  b = 1;
-  a.store(1, boost::memory_order_rrelease);
+  b = 1; 
+  a.store(1, boost::memory_order_release); 
 }
 
 void thread2()
@@ -37,6 +37,8 @@ int main()
   std::thread t2{thread2};
   t1.join();
   t2.join();
+  
+  // 输出一定为1
 }
 ```
 std::atomic
