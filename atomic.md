@@ -1,6 +1,8 @@
 atomic
 ====================
 
+http://blog.csdn.net/liuxuejiang158blog/article/details/17413149
+
 boost::atomic
 --------------------
 https://theboostcpplibraries.com/boost.atomic
