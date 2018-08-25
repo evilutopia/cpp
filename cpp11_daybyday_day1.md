@@ -27,3 +27,12 @@ https://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.h
 > [move-semantic-perfect-forward](https://codinfox.github.io/dev/2014/06/03/move-semantic-perfect-forward/)
 
 > [C++ and Beyond 2012](https://channel9.msdn.com/Tags/cppbeyond+2012)
+
+
+
+alignas and alignof
+---------------------------
+```
+The alignas type specifier is a portable, C++ standard way to specify custom alignment of variables and user defined types. The alignof operator is likewise a standard, portable way to obtain the alignment of a specified type or variable.
+```
+https://msdn.microsoft.com/en-us/library/dn956970.aspx
