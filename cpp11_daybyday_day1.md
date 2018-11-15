@@ -10,14 +10,23 @@ move-semantic-perfect-forward
 --------------------
 
 + 概念
-  * move-semantic
+  * move-semantic(std::move)
   * lvalue & rvalue
   * lvalue reference & rvalue reference 
-  * perfect forwarding
+  * perfect forwarding(std::forward)
   * universal reference
 
 + 作用及用法
   * 左值引用和右值引用可以被分别重载，这样确保左值和右值分别调用到拷贝和移动的两种语义实现。对于左值，如果我们明确放弃对其资源的所有权，则可以通过std::move()来将其转为右值引用。std::move()实际上是static_cast<T&&>()的简单封装。
+  
++ 解决问题
+
+  * shallow copy 和 deep copy（如 copy 构造函数 ），如何减少临时对象拷贝时不必要的内存创建、拷贝与销毁。
+  
++ 左值、右值
+  
+  * 如何区分左值右值
+  * 左值右值样例
 
 cv-qualified
 
