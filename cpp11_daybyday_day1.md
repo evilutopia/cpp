@@ -51,3 +51,8 @@ alignas and alignof
 The alignas type specifier is a portable, C++ standard way to specify custom alignment of variables and user defined types. The alignof operator is likewise a standard, portable way to obtain the alignment of a specified type or variable.
 ```
 https://msdn.microsoft.com/en-us/library/dn956970.aspx
+
+C++ online
+----------------------------
+
+https://wandbox.org/
