@@ -3,7 +3,7 @@
 keyword
 -----------------------
 + Translation Unit
-
++ Construct On First Use Idiom 
 
 https://isocpp.org/wiki/faq/ctors#static-init-order
 
