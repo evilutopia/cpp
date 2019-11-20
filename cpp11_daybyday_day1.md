@@ -42,6 +42,22 @@ cv-qualified
  * [move-semantic-perfect-forward](https://codinfox.github.io/dev/2014/06/03/move-semantic-perfect-forward/)
 
  * [C++ and Beyond 2012](https://channel9.msdn.com/Tags/cppbeyond+2012)
+ 
+ 
+ * 看了几篇文章后终于搞明白了 引用折叠
+ 
+ https://www.zhihu.com/question/34544004
+ 
+ https://stackoverflow.com/questions/8526598/how-does-stdforward-work
+ 
+ https://zh.wikipedia.org/wiki/%E5%8F%B3%E5%80%BC%E5%BC%95%E7%94%A8#%E5%BC%95%E7%94%A8%E6%8A%98%E5%8F%A0%E8%A7%84%E5%88%99
+ 
+ <pre>
+ T& &变为T&
+T& &&变为T&
+T&& &变为T&
+T&& &&变为T&&
+ </pre>
 
 
 
