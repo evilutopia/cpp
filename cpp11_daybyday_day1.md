@@ -205,7 +205,7 @@ int main()
     wrapper1(t);
     }
     
-   {
+    {
     wrapper2<Test>();
     }
     
