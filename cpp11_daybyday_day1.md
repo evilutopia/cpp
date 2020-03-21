@@ -5,6 +5,8 @@ reference
 
 [C++ Language Reference](https://msdn.microsoft.com/en-us/library/3bstk3k5.aspx)
 
+[cpp11](https://isocpp.org/wiki/faq/cpp11)
+
 
 move-semantic-perfect-forward
 --------------------
