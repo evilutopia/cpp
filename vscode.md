@@ -29,7 +29,7 @@ extensions
 |插件|描述|
 |----|----|
 |vim |vim模拟器|
-|Draw.io |画流程图|
+|Draw.io |流程图|
 |Diff Folders |按目录进行比较|
 |Doxygen Document Generator|生成注释|
 |TextMaker(Highlighter) |对关键字进行着色|
