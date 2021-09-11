@@ -21,3 +21,5 @@ https://wandbox.org/ 支持boost
 - https://mechanical-sympathy.blogspot.com/
 
 - https://lmax-exchange.github.io/disruptor/files/Disruptor-1.0.pdf
+
+- http://bad-concurrency.blogspot.com/
